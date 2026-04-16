@@ -1,4 +1,3 @@
-d" id="66482"}
 # 👩‍💻 RAZAN EBRAHEM | Data Analysis Portfolio
 
 Turning data into insights 📊
