@@ -1,43 +1,41 @@
-# 👩‍💻 RAZAN EBRAHEM | Data Analysis Portfolio
+👩‍💼 HR Analytics Dashboard
 
-Turning data into insights 📊
+An interactive HR Analytics Dashboard built with Power BI to analyze workforce data and support data-driven decision-making.
 
----
+📋 Project Overview
 
-## 🚀 Featured Projects
+This dashboard provides interactive insights into employee data, helping identify workforce trends, analyze attrition, and evaluate key HR metrics.
 
-### 📊 Sales Dashboard
-Interactive dashboard using Python & Streamlit to analyze sales data.
+✨ Dashboard Pages
 
-- Total sales  
-- Top product  
-- Monthly analysis  
+* Executive Overview
+* Employee Details
+* Salary Analysis
+* Attrition Analysis
 
----
+📊 Key Insights
 
-### 📈 Student Performance Analysis
-Analyzing student data to understand performance trends.
+* Employee Count
+* Attrition Rate
+* Average Salary
+* Average Age
+* Department Analysis
+* Job Role Analysis
+* Employee Demographics
 
-- Average scores  
-- Top students  
+🛠️ Tools & Technologies
 
----
+* Power BI
+* Power Query
+* DAX
 
-### 🍽 Restaurant Data Analysis
-Analyzing sales data to find trends and insights.
+📁 Project File
 
-- Best-selling items  
-- Revenue analysis  
+* HR_Data_Analysis.pbix
 
----
+👤 Author
 
-## 🛠 Skills
-- Python  
-- Pandas  
-- Data Visualization  
-- Streamlit  
+Razan Ibrahim
 
----
-
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/razan-ibrahim-141951327?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+🔗 LinkedIn:
+https://www.linkedin.com/in/razan-ibrahim-141951327
